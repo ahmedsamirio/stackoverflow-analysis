@@ -70,3 +70,6 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 9. Dissatified developers tend to undervalue their competence more than satisfied developers
 
 ![alt text](imgs/js_vs_competence.png)
+
+
+To understand more about how I got to these conclusions, you can check the notebook out.
