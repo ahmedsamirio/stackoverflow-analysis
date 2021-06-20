@@ -29,9 +29,9 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 
 1. I found out that the share of developers with no CS background decreased starting from 2016 due to a increased number of CS undergraduates entering the field.
 
-![alt text](imgs/market_composition_donut.png)
+![market composition](imgs/market_composition_donut.png)
 
 
 2. The most salary correlated means aren't online courses and part-time programs, but rather practical and competitive ones such as industry certifications, open source contributions and hackathons.
 
-![alt text](imgs/meads_eduation_mean_salary.png)
+![education by mean salary](imgs/ds_eduation_mean_salary.png)
