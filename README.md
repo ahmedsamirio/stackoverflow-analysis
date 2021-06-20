@@ -39,3 +39,6 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 3. There is no linear relationship between salary and job satisfaction
 
 ![mean salary over job satisfaction](imgs/salary_vs_js.png)
+
+4. The probability of a developer being satisfied with their job increases when their time in it exceeds one year
+![job satisfaction with last hire date](imgs/cs_vs_hiredate.png)
