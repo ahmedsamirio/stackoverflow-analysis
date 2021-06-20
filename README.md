@@ -30,6 +30,7 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 1. I found out that the share of developers with no CS background decreased starting from 2016 due to a increased number of CS undergraduates entering the field.
 
 ![market composition](imgs/market_composition_donut.png)
+![market composition2](imgs/market_composition_bar.png)
 
 
 
