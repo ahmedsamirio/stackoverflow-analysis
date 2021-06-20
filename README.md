@@ -72,4 +72,4 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 ![alt text](imgs/js_vs_competence.png)
 
 
-To understand more about how I got to these conclusions, you can check the notebook out.
+### Checkout the notebook if you'd like to get more information about how I reached these conclusions
