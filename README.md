@@ -35,3 +35,7 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 2. The most salary correlated means aren't online courses and part-time programs, but rather practical and competitive ones such as industry certifications, open source contributions and hackathons.
 
 ![education by mean salary](imgs/ds_eduation_mean_salary.png)
+
+3. There is no linear relationship between salary and job satisfaction
+
+![mean salary over job satisfaction](imgs/salary_vs_js.png)
