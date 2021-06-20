@@ -16,6 +16,8 @@ I chose the StackOverflow data as I wanted to ask a couple of questions that bot
 * What non degree education (online courses, bootcamps, etc..) do data scientists focus on?
 * Is salary the reason of job dissatisfaction or are there other reasons?
 
+For detailed answers of these quesiton you can read [this](https://ahmedsamirio.github.io/StackOverflow-Analysis/) blog post, or continue reading for a summary of the project findings. 
+
 
 ## How to use this
 The repository contains as jupyter notebook and html for easy viewing. The charts are also available in the imgs directory.
@@ -31,8 +33,6 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 
 ![market composition](imgs/market_composition_donut.png)
 ![market composition2](imgs/market_composition_bar.png)
-
-
 
 
 2. The most salary correlated means aren't online courses and part-time programs, but rather practical and competitive ones such as industry certifications, open source contributions and hackathons.
