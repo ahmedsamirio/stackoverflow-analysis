@@ -32,13 +32,40 @@ Of course, I wouldn't recommend running the notebook if you don't have the some 
 ![market composition](imgs/market_composition_donut.png)
 
 
+
+
 2. The most salary correlated means aren't online courses and part-time programs, but rather practical and competitive ones such as industry certifications, open source contributions and hackathons.
 
 ![education by mean salary](imgs/ds_eduation_mean_salary.png)
+
+
 
 3. There is no linear relationship between salary and job satisfaction
 
 ![mean salary over job satisfaction](imgs/salary_vs_js.png)
 
+
+
 4. The probability of a developer being satisfied with their job increases when their time in it exceeds one year
-![job satisfaction with last hire date](imgs/cs_vs_hiredate.png)
+
+![job satisfaction with last hire date](imgs/js_vs_hiredate.png)
+
+
+5. There is no difference between satisfied and dissatisified developers over what constitutes a good job
+
+6. Dissatified and satisifed developers state some challenges that they face at work at strikingly different proportions, which might indicate their contribution in their satisfaction with the job
+
+![alt text](imgs/js_vs_challenges.png)
+
+7. Satisfied developers tend to have more confidence in their manager's comepetency when compared with dissatisfied developers
+
+![alt text](imgs/js_vs_manager.png)
+
+8. Dissastified developers tend to prefer remote work more than satisfied developers, which might have caused by their dissatisfaction, or it might be one of they causes of it because of their inability to do it for example
+
+![alt text](imgs/js_vs_remotework.png)
+
+
+9. Dissatified developers tend to undervalue their competence more than satisfied developers
+
+![alt text](imgs/js_vs_competence.png)
